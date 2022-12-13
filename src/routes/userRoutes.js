@@ -7,7 +7,7 @@ const { checkAuth } = require("../middlewares/auth")
 
 router.get("/all", checkAuth, controller.all)
 router.post("/create", controller.createUser)
-router.patch("/update", controller.updateOne)
+router.patch("/update", checkAuth, controller.updateOne)
 router.post("/login", authController.login)
 
 module.exports = router

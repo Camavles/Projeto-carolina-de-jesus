@@ -87,7 +87,7 @@ const updateOne = async (request, response) => {
 
         response.status(200).send({
             message: "Cadastro atualizado com sucesso",
-            updated: savedUpdate
+            updated: searchForOne
         })
 
     } catch (error) {

@@ -85,3 +85,14 @@ PACOTES:
 | POST         | `/instituicoes/login`             | Faz o login na aplicação          |
 | PATCH        | `/instituicoes/update`   | Atualiza o cadastro de algum usuário  |
 
+##
+# ✔️ FUNCIONAMENTO
+
+<br>
+
+>Cadastrando um usuário
+<div align = "center">
+<img src='./assets/users.create.mp4'>
+
+</div>
+<br>
