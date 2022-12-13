@@ -98,3 +98,75 @@ PACOTES:
 </div>
 <br>
 
+>Buscando por todos os cadastros
+<div align = "center">
+
+<img src='./assets/OngsBuscar.gif'>
+
+</div>
+<br>
+
+>Buscando cadastro por bairro
+<div align = "center">
+
+<img src='./assets/OngsBairro.gif'>
+
+</div>
+<br>
+
+>Buscando cadastro por telefone
+<div align = "center">
+
+<img src='./assets/OngsTelefone.gif'>
+
+</div>
+<br>
+
+
+>Atualizando cadastro
+<div align = "center">
+
+<img src='./assets/OngsAtualizar.gif'>
+
+</div>
+<br>
+
+>Deletando cadastro
+<div align = "center">
+
+<img src='./assets/OngsDeletar.gif'>
+
+</div>
+<br>
+
+>Criando um usuário
+<div align = "center">
+
+<img src='./assets/usersCreate.gif'>
+
+</div>
+<br>
+
+>Atualizando um usuário
+<div align = "center">
+
+<img src='./assets/usersUpdate.gif'>
+
+</div>
+<br>
+
+>Logando na aplicação
+<div align = "center">
+
+<img src='./assets/usersLogin.gif'>
+
+</div>
+<br>
+
+>Bucando popr todos os cadastro de usuários
+<div align = "center">
+
+<img src='./assets/usersAll.gif'>
+
+</div>
+<br>
