@@ -1,7 +1,7 @@
 #  PROJETO CAROLINA MARIA DE JESUS
 
 <div align="center">
-<img width="40%" height="40%" src="./assets/foto.carolina.jpg"/> 
+<img width="40%" height="40%" src="./assets/foto.carolina"/> 
 </div>
 
 ##
@@ -23,7 +23,7 @@ PARA O PÚBLICO EM GERAL É POSSÍVEL:
  - buscar por bairro
  - buscar por telefone
  
-PARA USUÁRIOS AUTENTICADOS É POSSÍVEL:
+PARA USUÁRIOS AUTENTICADOS É POSSÍVEL
 - criar um novo cadasto 
 - atualizar um cadastro já existente
 - excluir um cadastro
@@ -34,29 +34,6 @@ PARA USUÁRIOS AUTENTICADOS É POSSÍVEL:
 <p align="justify">
 A arquitetura utilizada para este projeto foi padrão de arquitetura MVC ou Model View Controller, que separa a aplicação em três camadas. Neste caso, cada inicial representa as palavras Model View Controller, mas como esta aplicação foi pensanda inicialmente apenas pelo lado do back-end, ainda não há uma camada pensada para a View, que é a interação com o usuário, porém há as rotas ou routes. 
 
-##
- # 💻 PACOTES E TECNOLOGIAS UTILIZADAS
- 
- TECNOLOGIAS: 
-- [Git/GitHub](https://github.com/)
-- [Vercel](https://vercel.com/)
-- [JavaScript](https://www.javascript.com/)
-- [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
-- [Node.js](https://nodejs.org/en/)
-- [Postman](https://www.postman.com/)
-- [VScode](https://code.visualstudio.com/)  
- 
-PACOTES:
-- [Cors](https://www.npmjs.com/package/cors)
-- [Dotenv](https://www.npmjs.com/package/dotenv)
-- [Express](https://expressjs.com/pt-br/)
-- [Mongoose](https://mongoosejs.com/)
-- [Nodemon](https://www.npmjs.com/package/nodemon)
-- [Bcrypt](https://www.npmjs.com/package/bcrypt)
-- [Jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
- 
-##
-# 🛣️ ROTAS 
 
-
+ 
 
