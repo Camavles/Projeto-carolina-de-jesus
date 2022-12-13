@@ -1,7 +1,7 @@
 #  PROJETO CAROLINA MARIA DE JESUS
 
 <div align="center">
-<img width="40%" height="40%" src="https://user-images.githubusercontent.com/109524688/207364113-a5d7c242-ae98-4c53-9fa2-8750b4c4c8ba.jpg"/> 
+<img width="40%" height="40%" src="./assets/foto.carolina"/> 
 </div>
 
 ##
