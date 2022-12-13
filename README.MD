@@ -126,7 +126,7 @@ PACOTES:
 >Atualizando um cadastro
 <div align = "center">
 
-<img src='./assets/OngsAtualizar.gif'>
+<img src='./assets/OngsAtualizar.2.gif'>
 
 </div>
 <br>
