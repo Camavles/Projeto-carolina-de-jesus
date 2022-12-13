@@ -131,6 +131,7 @@ PACOTES:
 </div>
 <br>
 
+
 >Deletando cadastro
 <div align = "center">
 
@@ -138,6 +139,7 @@ PACOTES:
 
 </div>
 <br>
+
 
 >Criando um usuário
 <div align = "center">
@@ -147,6 +149,7 @@ PACOTES:
 </div>
 <br>
 
+
 >Atualizando um usuário
 <div align = "center">
 
@@ -154,6 +157,7 @@ PACOTES:
 
 </div>
 <br>
+
 
 >Logando na aplicação
 <div align = "center">
@@ -163,7 +167,8 @@ PACOTES:
 </div>
 <br>
 
->Bucando popr todos os cadastro de usuários
+
+>Bucando por todos os cadastro de usuários
 <div align = "center">
 
 <img src='./assets/usersAll.gif'>
