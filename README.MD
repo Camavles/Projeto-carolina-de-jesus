@@ -92,7 +92,7 @@ PACOTES:
 
 >Cadastrando um usuário
 <div align = "center">
-<img src='./assets/users.create.gif'>
+![users] src='./assets/users.create.mp4'
 
 </div>
 <br>
