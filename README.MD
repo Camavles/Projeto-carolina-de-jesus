@@ -152,8 +152,7 @@ PACOTES:
 
 >Atualizando um usuário
 <div align = "center">
-
-<img src='./assets/usersUpdate.gif'>
+<img src='./assets/usersUp.gif'>
 
 </div>
 <br>
