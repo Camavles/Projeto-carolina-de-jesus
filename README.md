@@ -27,7 +27,13 @@ PARA USUÁRIOS AUTENTICADOS É POSSÍVEL:
 - criar um novo cadasto 
 - atualizar um cadastro já existente
 - excluir um cadastro
-- fazer todas as buscar já inclídas para o público em geral
+- fazer todas as buscar já incluídas para o público em geral
+
+##
+# 🔧 ARQUITETURA:
+<p align="justify">
+A arquitetura utilizada para este projeto foi padrão de arquitetura MVC ou Model View Controller, que separa a aplicação em três camadas. Neste caso, cada inicial representa as palavras Model View Controller, mas como esta aplicação foi pensanda inicialmente apenas pelo lado do back-end, ainda não há uma camada pensada para a View, que é a interação com o usuário, porém há as rotas ou routes. 
 
 
+ 
 
