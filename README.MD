@@ -90,9 +90,11 @@ PACOTES:
 
 <br>
 
->Cadastrando um usuário
+>Cadastrando uma Instituição
 <div align = "center">
-![users] src='./assets/users.create.mp4'
+
+<img src='./assets/OngsCriar.gif'>
 
 </div>
 <br>
+
