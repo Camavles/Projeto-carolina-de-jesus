@@ -74,14 +74,14 @@ MÉTODOS: POST/GET/PATCH/DELETE
 | GET          | `/instituicoes/achar`    | Filtra as instituições pelo telefone buscado   |
 | POST         | `/instituicoes/criar`         | Cria um novo cadastro               |
 | PATCH        | `/instituicoes/atualizar/:id`   | Atualiza o cadastro de alguma instituição por ID  |
-| DELETE       | `/instituicoes/deletar/:id`     | Deleta um cadastro por ID  |
+| DELETE       | `/instituicoes/deletar/:id`     | Deleta um cadastro por ID  |      
 
 # 🔃 ROTAS - USERS
 
 | Método HTTP  | Endpoint              | Descrição                                  |
 | ------------ | --------------------- | ------------------------------------------ |
-| GET          | `/users/all`| Lista os usuários cadastrados    |
-| POST         | `/instituicoes/create`         | Cria um novo cadastro de usuário |
-| POST         | `/instituicoes/login`         | Faz o login na aplicação |
+| GET          | `/users/all`          | Lista os usuários cadastrados              |
+| POST         | `/instituicoes/create`         | Cria um novo cadastro de usuário     |
+| POST         | `/instituicoes/login`             | Faz o login na aplicação          |
 | PATCH        | `/instituicoes/update`   | Atualiza o cadastro de algum usuário  |
 
