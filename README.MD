@@ -123,7 +123,7 @@ PACOTES:
 <br>
 
 
->Atualizando cadastro
+>Atualizando um cadastro
 <div align = "center">
 
 <img src='./assets/OngsAtualizar.gif'>
