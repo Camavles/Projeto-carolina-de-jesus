@@ -57,7 +57,7 @@ PACOTES:
 
 ##
 # 🔃 ROTAS
-MÉTODOS: POST/GET/PATCH/DELETE
+## MÉTODOS: POST/GET/PATCH/DELETE
 
 | Método HTTP  | Endpoint                     | Descrição                            |
 | ------------ | ---------------------------- | ------------------------------------ |
@@ -65,7 +65,7 @@ MÉTODOS: POST/GET/PATCH/DELETE
 
 
 
-# 🔃 ROTAS - INSTITUIÇÕES
+## 🔃 ROTAS - INSTITUIÇÕES
 
 | Método HTTP  | Endpoint              | Descrição                                  |
 | ------------ | --------------------- | ------------------------------------------ |
@@ -76,7 +76,7 @@ MÉTODOS: POST/GET/PATCH/DELETE
 | PATCH        | `/instituicoes/atualizar/:id`   | Atualiza o cadastro de alguma instituição por ID  |
 | DELETE       | `/instituicoes/deletar/:id`     | Deleta um cadastro por ID  |      
 
-# 🔃 ROTAS - USERS
+## 🔃 ROTAS - USERS
 
 | Método HTTP  | Endpoint              | Descrição                                  |
 | ------------ | --------------------- | ------------------------------------------ |
