@@ -155,7 +155,10 @@ PACOTES:
 - 200: sucesso para deletar um cadastro pelo id
 - 500: erro de servidor
 
+```
 ## User
+
+```
 [GET] "/users/all"
 - 200: sucesso para carregar todos os cadastros
 - 500: erro de servidor
@@ -171,16 +174,18 @@ PACOTES:
 - 404: erro para usuário não encontrado
 - 200: sucesso para atualizar cum cadastro
 - 500: erro de servidor
-
+```
 
 ## Auth / Login
+
+```
 [POST] "/users/login"
 - 404: erro para usuário não encontrado
 - 401: sem autorização; senha inválida
 - 200: sucesso no login
 - 500: erro de servidor
-
 ```
+
 
 ##
 # ✔️ FUNCIONAMENTO
