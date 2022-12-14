@@ -35,30 +35,24 @@ PARA USUÁRIOS AUTENTICADOS É POSSÍVEL
 A arquitetura utilizada para este projeto foi padrão de arquitetura MVC ou Model View Controller, que separa a aplicação em três camadas. Neste caso, cada inicial representa as palavras Model View Controller, mas como esta aplicação foi pensanda inicialmente apenas pelo lado do back-end, ainda não há uma camada pensada para a View, que é a interação com o usuário, porém há as rotas ou routes. 
 
 ``` 
- 📁 PROJETO-FINAL2
+  📁 PROJETO-FINAL2
    |
    |---📁 assets
    |
    |---📁 src
    |    |
-   |    |
-   |    |
-   |    |--📁 config
+   |    |-- 📁 config
    |    |    |--📄 mongoConfig.js
-   |    |
-   |    |--📁 controllers
+   |    |-- 📁 controllers
    |    |    |--📄 authController.js
    |    |    |--📄 instituicoesController.js
    |    |    |--📄 userController.js
-   |    |
-   |    |--📁 middlewares
+   |    |-- 📁 middlewares
    |         |- 📄 auth.js
-   |
-   |    |--📁 models
+   |    |-- 📁 models
    |    |    |--📄 InstituicoesModel.js
    |    |    |--📄 UserModel.js
-   |    |
-   |    |--📁 routes
+   |    |-- 📁 routes
    |    |    |--📄 instituicoesRoutes.js
    |    |    |--📄 userRoutes.js  
    |    | 
