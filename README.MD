@@ -48,7 +48,7 @@ A arquitetura utilizada para este projeto foi padrão de arquitetura MVC ou Mode
    |    |    |--📄 instituicoesController.js
    |    |    |--📄 userController.js
    |    |-- 📁 middlewares
-   |         |- 📄 auth.js
+   |    |    |- 📄 auth.js
    |    |-- 📁 models
    |    |    |--📄 InstituicoesModel.js
    |    |    |--📄 UserModel.js
@@ -122,6 +122,7 @@ PACOTES:
 # 📑 DOCUMENTAÇÃO
 ## Instituições
 
+```
 [POST] "/instituicoes/criar"
 - 400: erro para a não inclusão do nome_instituicao
 - 400: erro para a não inclusão da descricao
@@ -178,6 +179,8 @@ PACOTES:
 - 401: sem autorização; senha inválida
 - 200: sucesso no login
 - 500: erro de servidor
+
+```
 
 ##
 # ✔️ FUNCIONAMENTO
