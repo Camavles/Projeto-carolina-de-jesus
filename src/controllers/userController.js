@@ -28,7 +28,7 @@ const createUser = async (request, response) => {
     const emailExists = await UserModel.exists({ email: request.body.email })
 
     if (emailExists) {
-        return response.status(409).send({
+        return response.status(400).send({
             message: "Email já cadastrado"
         })
     }
@@ -36,7 +36,7 @@ const createUser = async (request, response) => {
     const checkIfEmailIncludes = request.body.email.includes("@")
 
     if (!checkIfEmailIncludes) {
-        return response.status(409).send({
+        return response.status(400).send({
             message: "Insira um email válido"
         })
     }
@@ -44,7 +44,7 @@ const createUser = async (request, response) => {
     const checkIfItHas = request.body.email.includes(".com")
 
     if (!checkIfItHas) {
-        return response.status(409).send({
+        return response.status(400).send({
             message: "Insira um email válido"
         })
     }

@@ -188,6 +188,7 @@ const deletarPorId = async (request, response) => {
         response.status(200).send({
             message: "Cadastro deletado com sucesso"
         })
+        
     } catch (error) {
         response.status(500).send({
             message: error.message
