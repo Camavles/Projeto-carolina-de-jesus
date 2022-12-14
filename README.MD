@@ -85,9 +85,9 @@ PACOTES:
 | POST         | `/instituicoes/login`             | Faz o login na aplicação          |
 | PATCH        | `/instituicoes/update`   | Atualiza o cadastro de algum usuário  |
 
-
-## 📑 DOCUMENTAÇÃO
-Instituições
+##
+# 📑 DOCUMENTAÇÃO
+## Instituições
 
 [POST] "/instituicoes/criar"
 - 400: erro para a não inclusão do nome_instituicao
@@ -121,7 +121,7 @@ Instituições
 - 200: sucesso para deletar um cadastro pelo id
 - 500: erro de servidor
 
-# User
+## User
 [GET] "/users/all"
 - 200: sucesso para carregar todos os cadastros
 - 500: erro de servidor
@@ -139,7 +139,7 @@ Instituições
 - 500: erro de servidor
 
 
-# Auth / Login
+## Auth / Login
 [POST] "/users/login"
 - 404: erro para usuário não encontrado
 - 401: sem autorização; senha inválida
