@@ -42,7 +42,7 @@ A arquitetura utilizada para este projeto foi padrão de arquitetura MVC ou Mode
    |---📁 src
    |    |
    |    |-- 📁 config
-   |    |    |--📄 mongoConfig.js
+   |    |    |--📄 database.js
    |    |-- 📁 controllers
    |    |    |--📄 authController.js
    |    |    |--📄 instituicoesController.js
@@ -53,6 +53,7 @@ A arquitetura utilizada para este projeto foi padrão de arquitetura MVC ou Mode
    |    |    |--📄 InstituicoesModel.js
    |    |    |--📄 UserModel.js
    |    |-- 📁 routes
+   |    |    |--📄 indexRoutes.js
    |    |    |--📄 instituicoesRoutes.js
    |    |    |--📄 userRoutes.js  
    |    | 
@@ -61,10 +62,12 @@ A arquitetura utilizada para este projeto foi padrão de arquitetura MVC ou Mode
    |- 📄 .env
    |- 📄 .env.example
    |- 📄 .gitignore
+   |- 📄 doc.md
    |- 📄 package-lock,json
    |- 📄 package.json
    |- 📄 README.md
    |- 📄 server.js
+   |- 📄 vercel.js
 
 ```
 
