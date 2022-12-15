@@ -279,3 +279,34 @@ PACOTES:
 
 </div>
 <br>
+
+##
+# 🛑​ PARA REALIZAR A INSTALAÇÃO NO SEU COMPUTADOR:
+
+
+1. Primeiro é necessário clonar o seguinte repositório:
+
+    ```bash
+    $ git clone https://github.com/Camavles/Projeto-carolina-de-jesus.git 
+     ```
+
+2. Entre na seguinte pasta: 
+
+    ```bash
+    $ cd PROJETO-FINAL2/
+    ```
+    
+3. Para prosseguir, é necessário baixas as dependências: 
+
+   ```bash
+    $ npm install
+    ```
+4. Inicie o projeto com o comando: 
+
+   ```bash
+    $ npm run dev
+    ```   
+
+<br>
+
+---
