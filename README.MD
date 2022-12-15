@@ -1,7 +1,6 @@
-<h1 align="center">
-    <br>
-    <p align="center"> PROJETO CAROLINA MARIA DE JESUS<p>
-</h1.>
+## 
+# PROJETO CAROLINA MARIA DE JESUS
+
 
 <div align="center">
 <img width="45%" height="45%" src="./assets/foto.carolina.jpg"/> 
